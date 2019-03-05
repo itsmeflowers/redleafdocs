@@ -1,0 +1,5 @@
+site_name: Cut the Cord - <br/>Red Leaf Documentation
+theme: readthedocs
+markdown_extensions:
+    - toc:
+        baselevel: 2
